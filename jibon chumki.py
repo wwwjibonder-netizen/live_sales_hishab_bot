@@ -2,7 +2,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # BotFather থেকে পাওয়া আপনার আসল বটের টোকেনটি এখানে বসান
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8816266276:AAECNvhB4uqXNsOBCcdGjl_hsshIXb9DE7A"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # ১১টি অপশনের তালিকা (আপনার প্রজেক্ট অনুযায়ী নামগুলো বদলে নিতে পারেন)
