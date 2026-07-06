@@ -40,8 +40,8 @@ print(f"⏰Current D/Time:{current_now}")
 print("========================================\n")
 
 print("--- enter your item information ---")
-name = input("    item Name: ")
-quantity = int(input("item Quantity: "))
+#name = input("    item Name: ")
+#quantity = int(input("item Quantity: "))
 print("********************")
 
 # আগে থেকে আইটেমটি থাকলে পরিমাণ যোগ হবে, না থাকলে নতুন তৈরি হবে (যাতে পুরনো ডাটা না মুছে যায়)
